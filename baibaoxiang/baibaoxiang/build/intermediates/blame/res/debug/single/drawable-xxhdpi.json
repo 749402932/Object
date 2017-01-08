@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\search.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\lock.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\lock.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\no.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\no.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ok.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\ok.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\add.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\add.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\desc.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\desc.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\list.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\list.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\grid.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\grid.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\asc.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\asc.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\delete.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\delete.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\cancel.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\cancel.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yes.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\yes.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\edit.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\edit.png"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\save.png",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\drawable-xxhdpi\\save.png"
+    }
+]

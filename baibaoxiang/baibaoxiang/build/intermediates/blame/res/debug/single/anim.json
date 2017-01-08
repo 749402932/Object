@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\anim\\ha.xml",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\anim\\ha.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\anim\\scale_rotate_in.xml",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\anim\\scale_rotate_in.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\anim\\cycle.xml",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\anim\\top2_in.xml",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\anim\\top2_in.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\anim\\shake_x.xml",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\anim\\shake_x.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\anim\\top1_in.xml",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\anim\\top1_in.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\anim\\set_activity.xml",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\anim\\set_activity.xml"
+    },
+    {
+        "merged": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_out.xml",
+        "source": "F:\\MyApplication\\Object\\baibaoxiang\\baibaoxiang\\src\\main\\res\\anim\\alpha_out.xml"
+    }
+]
